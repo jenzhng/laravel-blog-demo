@@ -1,4 +1,4 @@
 # Laravel Demo Blog
-Laravel Demo Blog showing recipes
+Simple Laravel and Php Demo Blog showing recipes
 
 ## Screenshots

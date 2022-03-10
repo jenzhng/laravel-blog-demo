@@ -3,6 +3,7 @@ Simple Laravel and Php Demo Blog showing recipes
 
 ## Screenshots
 ### Landing page
+##############################################
 ![Alt text](https://github.com/jenzhng/laravel-blog-demo/blob/main/landing-page.png)
 ### Blog Index
 ![Alt text](https://github.com/jenzhng/laravel-blog-demo/blob/main/blog-index-screenshot.png)
